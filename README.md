@@ -1,4 +1,4 @@
-Repositório - Exercícios de Lógica para Data Science com Python
+Exercícios de Lógica para Data Science com Python
 
 Este repositório contém exercícios de lógica voltados para o desenvolvimento de habilidades em Data Science, utilizando a linguagem Python. Os exercícios são projetados para fortalecer o pensamento analítico e aprimorar o entendimento de conceitos fundamentais, aplicados ao mundo da ciência de dados.
 
